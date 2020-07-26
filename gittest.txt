@@ -3,3 +3,8 @@ this is test file to add in git
 now adding one more line to file to test the commit again by vi editor
 
 now added branch and modification is done on kanak branch
+
+
+25th july 2020 added new line 
+to commit  and add
+
